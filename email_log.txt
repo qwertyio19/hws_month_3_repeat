@@ -1,0 +1,110 @@
+2024-11-27 15:36:37,755 - INFO - Start polling
+2024-11-27 15:36:38,274 - INFO - Run polling for bot @HomeWorks3MonthBot id=8165728609 - 'HomeWorks'
+2024-11-27 15:39:28,019 - INFO - Polling stopped
+2024-11-27 15:39:28,283 - INFO - Polling stopped for bot @HomeWorks3MonthBot id=8165728609 - 'HomeWorks'
+2024-11-27 15:41:06,071 - INFO - Start polling
+2024-11-27 15:41:06,570 - INFO - Run polling for bot @HomeWorks3MonthBot id=8165728609 - 'HomeWorks'
+2024-11-27 15:42:10,041 - INFO - Polling stopped
+2024-11-27 15:42:10,300 - INFO - Polling stopped for bot @HomeWorks3MonthBot id=8165728609 - 'HomeWorks'
+2024-11-27 15:42:27,104 - INFO - Start polling
+2024-11-27 15:42:27,556 - INFO - Run polling for bot @HomeWorks3MonthBot id=8165728609 - 'HomeWorks'
+2024-11-27 15:42:55,544 - INFO - Update id=45245089 is handled. Duration 562 ms by bot id=8165728609
+2024-11-27 15:42:58,613 - INFO - Update id=45245090 is handled. Duration 171 ms by bot id=8165728609
+2024-11-27 15:43:15,979 - INFO - Update id=45245091 is handled. Duration 562 ms by bot id=8165728609
+2024-11-27 15:43:21,508 - INFO - Update id=45245092 is handled. Duration 156 ms by bot id=8165728609
+2024-11-27 15:43:25,832 - INFO - Update id=45245093 is handled. Duration 172 ms by bot id=8165728609
+2024-11-27 15:43:29,273 - INFO - Update id=45245094 is handled. Duration 172 ms by bot id=8165728609
+2024-11-27 15:43:34,274 - INFO - Update id=45245095 is handled. Duration 3282 ms by bot id=8165728609
+2024-11-27 15:52:48,252 - INFO - Polling stopped
+2024-11-27 15:52:48,509 - INFO - Polling stopped for bot @HomeWorks3MonthBot id=8165728609 - 'HomeWorks'
+2024-11-27 15:53:01,859 - INFO - Start polling
+2024-11-27 15:53:02,305 - INFO - Run polling for bot @HomeWorks3MonthBot id=8165728609 - 'HomeWorks'
+2024-11-27 15:53:38,354 - INFO - Update id=45245096 is handled. Duration 515 ms by bot id=8165728609
+2024-11-27 15:53:39,809 - INFO - Update id=45245097 is handled. Duration 155 ms by bot id=8165728609
+2024-11-27 15:53:46,805 - INFO - Update id=45245098 is handled. Duration 171 ms by bot id=8165728609
+2024-11-27 15:53:51,216 - INFO - Update id=45245099 is handled. Duration 171 ms by bot id=8165728609
+2024-11-27 15:53:55,948 - INFO - Update id=45245100 is not handled. Duration 0 ms by bot id=8165728609
+2024-11-27 15:54:18,257 - INFO - Update id=45245101 is not handled. Duration 0 ms by bot id=8165728609
+2024-11-27 15:54:22,575 - INFO - Update id=45245102 is not handled. Duration 15 ms by bot id=8165728609
+2024-11-27 15:54:25,937 - INFO - Update id=45245103 is handled. Duration 407 ms by bot id=8165728609
+2024-11-27 15:54:31,612 - INFO - Update id=45245104 is handled. Duration 233 ms by bot id=8165728609
+2024-11-27 15:54:40,822 - INFO - Update id=45245105 is handled. Duration 187 ms by bot id=8165728609
+2024-11-27 15:54:44,663 - INFO - Update id=45245106 is not handled. Duration 0 ms by bot id=8165728609
+2024-11-27 15:55:01,619 - INFO - Update id=45245107 is not handled. Duration 0 ms by bot id=8165728609
+2024-11-27 15:55:06,720 - INFO - Update id=45245108 is not handled. Duration 15 ms by bot id=8165728609
+2024-11-27 15:55:08,930 - INFO - Update id=45245109 is not handled. Duration 0 ms by bot id=8165728609
+2024-11-27 15:57:14,204 - INFO - Start polling
+2024-11-27 15:57:14,683 - INFO - Run polling for bot @HomeWorks3MonthBot id=8165728609 - 'HomeWorks'
+2024-11-27 15:57:15,486 - INFO - Update id=45245112 is handled. Duration 592 ms by bot id=8165728609
+2024-11-27 15:57:15,706 - INFO - Update id=45245111 is handled. Duration 812 ms by bot id=8165728609
+2024-11-27 15:57:15,707 - INFO - Update id=45245110 is handled. Duration 828 ms by bot id=8165728609
+2024-11-27 15:57:15,716 - INFO - Update id=45245114 is handled. Duration 827 ms by bot id=8165728609
+2024-11-27 15:57:15,861 - INFO - Update id=45245113 is handled. Duration 967 ms by bot id=8165728609
+2024-11-27 15:57:28,733 - INFO - Update id=45245115 is handled. Duration 155 ms by bot id=8165728609
+2024-11-27 15:57:30,237 - INFO - Update id=45245116 is handled. Duration 171 ms by bot id=8165728609
+2024-11-27 15:57:36,444 - INFO - Update id=45245117 is handled. Duration 203 ms by bot id=8165728609
+2024-11-27 15:57:39,692 - INFO - Update id=45245118 is handled. Duration 203 ms by bot id=8165728609
+2024-11-27 15:57:42,747 - INFO - Update id=45245119 is not handled. Duration 16 ms by bot id=8165728609
+2024-11-27 15:57:48,061 - INFO - Update id=45245120 is not handled. Duration 16 ms by bot id=8165728609
+2024-11-27 15:57:52,346 - INFO - Update id=45245121 is not handled. Duration 0 ms by bot id=8165728609
+2024-11-27 16:01:14,066 - INFO - Polling stopped
+2024-11-27 16:01:14,330 - INFO - Polling stopped for bot @HomeWorks3MonthBot id=8165728609 - 'HomeWorks'
+2024-11-27 16:01:27,699 - INFO - Start polling
+2024-11-27 16:01:28,450 - INFO - Run polling for bot @HomeWorks3MonthBot id=8165728609 - 'HomeWorks'
+2024-11-27 16:01:49,815 - INFO - Update id=45245122 is handled. Duration 546 ms by bot id=8165728609
+2024-11-27 16:01:50,939 - INFO - Update id=45245123 is handled. Duration 250 ms by bot id=8165728609
+2024-11-27 16:01:57,966 - INFO - Update id=45245124 is handled. Duration 202 ms by bot id=8165728609
+2024-11-27 16:02:03,994 - INFO - Update id=45245125 is handled. Duration 328 ms by bot id=8165728609
+2024-11-27 16:02:06,818 - INFO - Update id=45245126 is handled. Duration 157 ms by bot id=8165728609
+2024-11-27 16:02:14,716 - INFO - Update id=45245127 is handled. Duration 265 ms by bot id=8165728609
+2024-11-27 16:02:18,914 - INFO - Recipient: saidahmaddjamalbekov@gmail.com | Status: успешно отправлено
+2024-11-27 16:02:19,205 - INFO - Update id=45245128 is handled. Duration 3047 ms by bot id=8165728609
+2024-11-27 16:03:47,705 - INFO - Update id=45245129 is handled. Duration 453 ms by bot id=8165728609
+2024-11-27 16:03:51,045 - INFO - Update id=45245130 is handled. Duration 203 ms by bot id=8165728609
+2024-11-27 16:04:00,494 - INFO - Update id=45245131 is handled. Duration 187 ms by bot id=8165728609
+2024-11-27 16:04:02,675 - INFO - Update id=45245132 is handled. Duration 250 ms by bot id=8165728609
+2024-11-27 16:04:12,548 - INFO - Update id=45245133 is handled. Duration 155 ms by bot id=8165728609
+2024-11-27 16:04:15,848 - INFO - Update id=45245134 is handled. Duration 171 ms by bot id=8165728609
+2024-11-27 16:04:17,897 - INFO - Update id=45245135 is handled. Duration 172 ms by bot id=8165728609
+2024-11-27 16:04:21,406 - INFO - Recipient: djamalbekovsaidahmad@gmail.com | Status: успешно отправлено
+2024-11-27 16:04:21,736 - INFO - Update id=45245136 is handled. Duration 2687 ms by bot id=8165728609
+2024-11-27 16:13:15,854 - INFO - Polling stopped
+2024-11-27 16:13:16,106 - INFO - Polling stopped for bot @HomeWorks3MonthBot id=8165728609 - 'HomeWorks'
+2024-11-27 16:15:26,175 - INFO - Start polling
+2024-11-27 16:15:26,628 - INFO - Run polling for bot @HomeWorks3MonthBot id=8165728609 - 'HomeWorks'
+2024-11-27 16:15:29,355 - INFO - Update id=45245137 is handled. Duration 515 ms by bot id=8165728609
+2024-11-27 16:15:35,928 - INFO - Update id=45245138 is handled. Duration 233 ms by bot id=8165728609
+2024-11-27 16:15:38,732 - INFO - Update id=45245139 is handled. Duration 171 ms by bot id=8165728609
+2024-11-27 16:15:46,759 - INFO - Update id=45245140 is handled. Duration 171 ms by bot id=8165728609
+2024-11-27 16:16:04,781 - INFO - Update id=45245141 is handled. Duration 467 ms by bot id=8165728609
+2024-11-27 16:16:07,822 - INFO - Update id=45245142 is handled. Duration 141 ms by bot id=8165728609
+2024-11-27 16:17:12,296 - INFO - Polling stopped
+2024-11-27 16:17:12,546 - INFO - Polling stopped for bot @HomeWorks3MonthBot id=8165728609 - 'HomeWorks'
+2024-11-27 16:17:39,357 - INFO - Start polling
+2024-11-27 16:17:39,863 - INFO - Run polling for bot @HomeWorks3MonthBot id=8165728609 - 'HomeWorks'
+2024-11-27 16:17:51,417 - INFO - Update id=45245143 is handled. Duration 577 ms by bot id=8165728609
+2024-11-27 16:17:55,618 - INFO - Update id=45245144 is handled. Duration 217 ms by bot id=8165728609
+2024-11-27 16:17:58,023 - INFO - Update id=45245145 is handled. Duration 203 ms by bot id=8165728609
+2024-11-27 16:18:07,265 - INFO - Update id=45245146 is handled. Duration 157 ms by bot id=8165728609
+2024-11-27 16:18:14,603 - INFO - Update id=45245147 is handled. Duration 187 ms by bot id=8165728609
+2024-11-27 16:18:17,129 - INFO - Update id=45245148 is handled. Duration 203 ms by bot id=8165728609
+2024-11-27 16:19:45,053 - INFO - Update id=45245149 is handled. Duration 750 ms by bot id=8165728609
+2024-11-27 16:19:49,412 - INFO - Update id=45245150 is handled. Duration 139 ms by bot id=8165728609
+2024-11-27 16:19:55,594 - INFO - Update id=45245151 is handled. Duration 202 ms by bot id=8165728609
+2024-11-27 16:20:00,133 - INFO - Update id=45245152 is handled. Duration 187 ms by bot id=8165728609
+2024-11-27 16:20:07,809 - INFO - Update id=45245153 is handled. Duration 171 ms by bot id=8165728609
+2024-11-27 16:20:12,905 - INFO - Update id=45245154 is handled. Duration 202 ms by bot id=8165728609
+2024-11-27 16:20:16,639 - INFO - Recipient: saidahmaddjamalbekov@gmail.com | Status: успешно отправлено
+2024-11-27 16:20:17,059 - INFO - Update id=45245155 is handled. Duration 3141 ms by bot id=8165728609
+2024-11-27 16:20:32,705 - INFO - Update id=45245156 is handled. Duration 437 ms by bot id=8165728609
+2024-11-27 16:20:37,328 - INFO - Update id=45245157 is handled. Duration 203 ms by bot id=8165728609
+2024-11-27 16:20:40,412 - INFO - Update id=45245158 is handled. Duration 171 ms by bot id=8165728609
+2024-11-27 16:20:44,891 - INFO - Update id=45245159 is handled. Duration 203 ms by bot id=8165728609
+2024-11-27 16:20:49,039 - INFO - Update id=45245160 is handled. Duration 187 ms by bot id=8165728609
+2024-11-27 16:20:52,030 - INFO - Update id=45245161 is handled. Duration 250 ms by bot id=8165728609
+2024-11-27 16:20:54,765 - INFO - Update id=45245162 is handled. Duration 172 ms by bot id=8165728609
+2024-11-27 16:20:56,651 - INFO - Update id=45245163 is handled. Duration 141 ms by bot id=8165728609
+2024-11-27 16:21:00,120 - INFO - Recipient: djamalbekovsaidahmad@gmail.com | Status: успешно отправлено
+2024-11-27 16:21:00,497 - INFO - Update id=45245164 is handled. Duration 2483 ms by bot id=8165728609
+2024-11-27 16:23:45,621 - INFO - Polling stopped
+2024-11-27 16:23:45,882 - INFO - Polling stopped for bot @HomeWorks3MonthBot id=8165728609 - 'HomeWorks'
