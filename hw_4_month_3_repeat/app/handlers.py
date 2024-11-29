@@ -25,7 +25,7 @@ def is_non_empty_text(text: str) -> bool:
 logging.basicConfig(
     filename="email_log.txt",
     level=logging.INFO,
-    format="%(asctime)s - %(levelname)s - %(message)s"
+    format="%(asctime)s - %(levelname)s - %(m  essage)s"
 )
 
 def log_email(recipient, status):
